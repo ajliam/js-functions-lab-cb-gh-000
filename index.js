@@ -1,5 +1,10 @@
 // write your code below!
 
+let name = 'you';
+let holiday = 'Valentines';
+let days = '20';
+
+
 function happyHolidays(){
   return "Happy holidays!";
 }
