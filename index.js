@@ -1,7 +1,7 @@
 // write your code below!
 
 let name = 'you';
-let holiday = 'Valentines';
+let holiday = 'Independence Day';
 let days = 20;
 
 
